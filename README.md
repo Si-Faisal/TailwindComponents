@@ -33,6 +33,15 @@
 
 
 
+#Developer ReSources
+
+[274+ resources]( https://the-webdesigner.co/web-design-development-resources/#t-1598644068945)
+
+
+#Design Resources
+
+[design resources](https://muz.li/about/)
+
 
 
 
